@@ -16,4 +16,8 @@
 *.iml
 
 # Binary output
+bin/
 /httplbs
+
+# Vendor
+vendor/
